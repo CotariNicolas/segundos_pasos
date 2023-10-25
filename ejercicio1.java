@@ -1,6 +1,6 @@
 package segundos_pasos;
 import java.util.Scanner;
-/*
+
 public class ejercicio1 {
 	public static void main(String argc[]) {
 		Scanner scan = new Scanner(System.in);
